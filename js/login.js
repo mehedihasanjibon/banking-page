@@ -19,7 +19,4 @@ document.getElementById('btn-submit').addEventListener('click' , function(){
     else{
         alert('invalid user');
     }
-})
-     
-   
-     
+});
